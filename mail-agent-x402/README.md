@@ -11,6 +11,8 @@
 
 ---
 
+## Demo Video - https://youtu.be/pMtfQQ5U0Hk
+
 ## What is MailMind?
 
 **MailMind** is an AI-powered mailing agent that reads a list of recipients from a CSV file and automatically generates a unique, personalized email for each recipient using the **LLaMA 3.3-70b** model (via Groq). Each email generation is gated behind a **x402 payment flow** — meaning the agent must pay a small fee per email before the server generates and sends it.
